@@ -10,8 +10,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="160"
+      height="160"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
