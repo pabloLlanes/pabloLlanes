@@ -18,32 +18,32 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
+      width="150"
+      height="150"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40"
+      width="140"
+      height="140"
     />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
-      width="40"
-      height="40"
+      width="120"
+      height="120"
     />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
-      width="40"
-      height="40"
+      width="100"
+      height="100"
     />
   </a>
 
@@ -52,16 +52,16 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
 
