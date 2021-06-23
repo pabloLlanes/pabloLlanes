@@ -22,6 +22,13 @@
       height="100"
     />
   </a>
+   <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="100"
+      height="100"
+    />
   <a href="https://www.mongodb.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -38,13 +45,7 @@
       height="100"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="100"
-      height="100"
-    />
+ 
   </a>
     <a href="https://www.linux.org/" target="_blank">
     <img
